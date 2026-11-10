@@ -1,9 +1,5 @@
 # ACLCrossAttentionNet
 ACLCrossAttentionNet: An Attention-Based Deep Learning Framework for ACL Injury Detection
-
-
-# ACLCrossAttentionNet
-
 Official implementation of ACLCrossAttentionNet, a deep learning framework for Anterior Cruciate Ligament (ACL) injury detection using knee MRI images.
 
 ## Dataset
